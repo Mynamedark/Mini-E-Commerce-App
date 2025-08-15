@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860488216057",
+    "project_id": "project-5cf6c",
+    "storage_bucket": "project-5cf6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860488216057:android:0ef239e22021873ca9a128",
+        "android_client_info": {
+          "package_name": "com.example.preet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZ-mX-B_sg1K12U0z55ATOYlgoMPX5G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
