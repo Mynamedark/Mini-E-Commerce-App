@@ -83,8 +83,8 @@ lib/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/preet-shopping-app.git
-cd preet-shopping-app
+git clone https://github.com/yourusername/mini- e-commerce_app.git
+cd mini-e-commerce-app
 ```
 
 2. Install dependencies:
