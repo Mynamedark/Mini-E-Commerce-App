@@ -10,10 +10,10 @@ A Flutter-based e-commerce application with Firebase backend support. The app su
 <img src="https://github.com/user-attachments/assets/3d393769-eeb7-461c-9ac7-43c2d8e30681" width="400" />
 <img src="https://github.com/user-attachments/assets/a6ca84fe-36b5-4e13-a2cf-cd48244a8058" width="400" />
 <img src="https://github.com/user-attachments/assets/02be95df-71e9-41f0-9965-38721e359a17" width="400" />
-<img src="https://github.com/user-attachments/assets/d6c0d734-3bc4-4b01-8c66-68d3a9fe9330" width="400" />
 <img src="https://github.com/user-attachments/assets/d1a32e61-a219-49da-9851-8d751ca30803" width="400"/>
 <img src="https://github.com/user-attachments/assets/8084f1fd-2035-4a8c-bac4-5eea396958e2" width="400"/>
 <img src="https://github.com/user-attachments/assets/0ca206aa-58df-4edb-9c2f-b592b6aff52d" width="400" />
+<img src="https://github.com/user-attachments/assets/d6c0d734-3bc4-4b01-8c66-68d3a9fe9330" width="400" />
 
 
 
@@ -205,6 +205,7 @@ IconButton(
 7. **Architecture**: MVVM-like separation for scalability and maintainability.
 
 ---
+
 
 
 
