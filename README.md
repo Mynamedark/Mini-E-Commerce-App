@@ -190,3 +190,14 @@ IconButton(
 7. **Architecture**: MVVM-like separation for scalability and maintainability.
 
 ## **Screen shot **
+
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-52-49-26_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-52-53-15_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-53-11-26_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-53-17-15_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-53-20-86_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-53-20-86_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-53-53-52_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-54-00-01_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-54-14-19_e51cc5eacb31f807692e5d3df56ca25e.jpg
+https://github.com/Mynamedark/Mini-E-Commerce-App/blob/main/Screenshot_2025-08-21-21-54-28-10.jpg
