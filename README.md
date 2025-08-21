@@ -3,7 +3,7 @@
 A Flutter-based e-commerce application with Firebase backend support. The app supports product listing, cart management, nearby stores map, and localization (English & Hindi).
 
 ---
-
+## **Table of Contents**
 ## **Table of Contents**
 
 1. [Features](#features)
@@ -190,5 +190,6 @@ IconButton(
 7. **Architecture**: MVVM-like separation for scalability and maintainability.
 
 ---
+
 
 
