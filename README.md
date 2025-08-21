@@ -4,7 +4,15 @@ A Flutter-based e-commerce application with Firebase backend support. The app su
 
 ---
 ## **Screen Shot**
-<img width="1080" height="2412" alt="image" src="https://github.com/user-attachments/assets/0eca046f-4b9d-4b9f-87b7-0aac7d4f397f" />
+<img src="https://github.com/user-attachments/assets/0eca046f-4b9d-4b9f-87b7-0aac7d4f397f" width="400" />
+<img src="https://github.com/user-attachments/assets/d5bdfdfc-9c54-43bd-a15b-32cca9c4b5ff" width="400" />
+<img src="https://github.com/user-attachments/assets/15b4b370-d4b0-44dc-b0f4-b9ce33c347d2" width="400" />
+<img src="https://github.com/user-attachments/assets/3d393769-eeb7-461c-9ac7-43c2d8e30681" width="400" />
+<img src="https://github.com/user-attachments/assets/0ca206aa-58df-4edb-9c2f-b592b6aff52d" width="400" />
+<img src="https://github.com/user-attachments/assets/a6ca84fe-36b5-4e13-a2cf-cd48244a8058" width="400" />
+<img src="https://github.com/user-attachments/assets/02be95df-71e9-41f0-9965-38721e359a17" width="400" />
+<img src="https://github.com/user-attachments/assets/d6c0d734-3bc4-4b01-8c66-68d3a9fe9330" width="400" />
+
 
 
 ---
@@ -194,6 +202,7 @@ IconButton(
 7. **Architecture**: MVVM-like separation for scalability and maintainability.
 
 ---
+
 
 
 
