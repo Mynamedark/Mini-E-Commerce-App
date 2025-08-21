@@ -182,9 +182,11 @@ IconButton(
 ## **Design Decisions**
 
 1. **State Management**: Provider is used for simplicity and reactivity.
-2. **UI**: Material Design with customization and theme support.
-3. **Maps**: Used `flutter_map` + `geolocator` for better flexibility and no Google API dependency.
-4. **Localization**: `.arb` files allow adding more languages easily.
-5. **Firebase**: Firestore chosen for easy real-time updates.
-6. **Architecture**: MVVM-like separation for scalability and maintainability.
+2. 
+3. **UI**: Material Design with customization and theme support.
+4. **Maps**: Used `flutter_map` + `geolocator` for better flexibility and no Google API dependency.
+5. **Localization**: `.arb` files allow adding more languages easily.
+6. **Firebase**: Firestore chosen for easy real-time updates.
+7. **Architecture**: MVVM-like separation for scalability and maintainability.
 
+## **Screen shot **
